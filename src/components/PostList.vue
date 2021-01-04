@@ -1,7 +1,7 @@
 <template>
   <div id="post-list">
     <transition-group name="list">
-      <div v-for="(post, index) in getPosts" :key="index">
+      <div v-for="(post, index) in getPosts" :key="post.id">
         <post-card :post="post" :index="index" />
       </div>
     </transition-group>

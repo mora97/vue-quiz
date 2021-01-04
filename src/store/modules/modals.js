@@ -28,8 +28,5 @@ export default {
         getDeleteModalState(state) {
             return state.deleteModal.state
         },
-    },
-    actions: {
-
     }
 }

@@ -28,15 +28,6 @@
       "color": "#286335"
     },
     {
-      "id": 80,
-      "description": "lorem ipsum dolor sit amet",
-      "img": "https://source.unsplash.com/random",
-      "title": {
-        "text": "test6"
-      },
-      "color": "#9605b5"
-    },
-    {
       "id": 81,
       "description": "lorem ipsum dolor sit amet",
       "img": "https://source.unsplash.com/random",
