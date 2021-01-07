@@ -42,7 +42,7 @@ export default {
 </script>
 
 <style lang="sass" scoped>
-@import "../styles/variables.sass"
+@import "../../styles/variables.sass"
 
 #post-card
     text-align: right
@@ -56,6 +56,7 @@ export default {
     max-width: 40rem
     flex:1
     box-shadow: $shadow
+    transition: all 1s
     .context
         display: flex
         margin-top: .5rem
